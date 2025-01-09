@@ -32,12 +32,20 @@ Tools & Libraries
 Pandas: Used for data manipulation and cleaning.
 Matplotlib & Seaborn: Potential libraries for data visualization (though not yet used in this script, they are often used for further analysis).
 Python: Programming language used for the project.
+
 How to Use
 Clone or download this repository.
+
 Place the dataset Crime_Reports_20240701.csv in the same directory as the script.
+
 Run the Python script to clean the data.
+
 The cleaned dataset will be saved as processed_crime_data.csv.
+
 Future Work
+
 Conduct further exploratory data analysis (EDA) on the cleaned dataset.
+
 Visualize crime trends over time, by neighborhood, and by crime type.
+
 Apply machine learning techniques to predict crime occurrences or identify patterns in crime data.
